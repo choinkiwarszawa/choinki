@@ -1,0 +1,528 @@
+{
+ "trees": [
+  {
+   "id": "Jodła kaukaska125–150 cmStandard",
+   "name": "Jodła kaukaska Standard 125–150 cm",
+   "species": "Jodła kaukaska",
+   "height": "125–150 cm",
+   "tier": "Standard",
+   "price": 139,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska125–150 cmPremium",
+   "name": "Jodła kaukaska Premium 125–150 cm",
+   "species": "Jodła kaukaska",
+   "height": "125–150 cm",
+   "tier": "Premium",
+   "price": 179,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska150–175 cmStandard",
+   "name": "Jodła kaukaska Standard 150–175 cm",
+   "species": "Jodła kaukaska",
+   "height": "150–175 cm",
+   "tier": "Standard",
+   "price": 159,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska150–175 cmPremium",
+   "name": "Jodła kaukaska Premium 150–175 cm",
+   "species": "Jodła kaukaska",
+   "height": "150–175 cm",
+   "tier": "Premium",
+   "price": 209,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska175–200 cmStandard",
+   "name": "Jodła kaukaska Standard 175–200 cm",
+   "species": "Jodła kaukaska",
+   "height": "175–200 cm",
+   "tier": "Standard",
+   "price": 189,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska175–200 cmPremium",
+   "name": "Jodła kaukaska Premium 175–200 cm",
+   "species": "Jodła kaukaska",
+   "height": "175–200 cm",
+   "tier": "Premium",
+   "price": 249,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska200–225 cmStandard",
+   "name": "Jodła kaukaska Standard 200–225 cm",
+   "species": "Jodła kaukaska",
+   "height": "200–225 cm",
+   "tier": "Standard",
+   "price": 229,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska200–225 cmPremium",
+   "name": "Jodła kaukaska Premium 200–225 cm",
+   "species": "Jodła kaukaska",
+   "height": "200–225 cm",
+   "tier": "Premium",
+   "price": 299,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska225–250 cmStandard",
+   "name": "Jodła kaukaska Standard 225–250 cm",
+   "species": "Jodła kaukaska",
+   "height": "225–250 cm",
+   "tier": "Standard",
+   "price": 269,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska225–250 cmPremium",
+   "name": "Jodła kaukaska Premium 225–250 cm",
+   "species": "Jodła kaukaska",
+   "height": "225–250 cm",
+   "tier": "Premium",
+   "price": 349,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska250–275 cmStandard",
+   "name": "Jodła kaukaska Standard 250–275 cm",
+   "species": "Jodła kaukaska",
+   "height": "250–275 cm",
+   "tier": "Standard",
+   "price": 319,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska250–275 cmPremium",
+   "name": "Jodła kaukaska Premium 250–275 cm",
+   "species": "Jodła kaukaska",
+   "height": "250–275 cm",
+   "tier": "Premium",
+   "price": 409,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska275–300 cmStandard",
+   "name": "Jodła kaukaska Standard 275–300 cm",
+   "species": "Jodła kaukaska",
+   "height": "275–300 cm",
+   "tier": "Standard",
+   "price": 379,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska275–300 cmPremium",
+   "name": "Jodła kaukaska Premium 275–300 cm",
+   "species": "Jodła kaukaska",
+   "height": "275–300 cm",
+   "tier": "Premium",
+   "price": 489,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska300–325 cmStandard",
+   "name": "Jodła kaukaska Standard 300–325 cm",
+   "species": "Jodła kaukaska",
+   "height": "300–325 cm",
+   "tier": "Standard",
+   "price": 449,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska300–325 cmPremium",
+   "name": "Jodła kaukaska Premium 300–325 cm",
+   "species": "Jodła kaukaska",
+   "height": "300–325 cm",
+   "tier": "Premium",
+   "price": 579,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska325–350 cmStandard",
+   "name": "Jodła kaukaska Standard 325–350 cm",
+   "species": "Jodła kaukaska",
+   "height": "325–350 cm",
+   "tier": "Standard",
+   "price": 529,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła kaukaska325–350 cmPremium",
+   "name": "Jodła kaukaska Premium 325–350 cm",
+   "species": "Jodła kaukaska",
+   "height": "325–350 cm",
+   "tier": "Premium",
+   "price": 689,
+   "img": "",
+   "desc": "Gęsta, elegancka i długo utrzymująca świeżość. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Świerk pospolity125–150 cm",
+   "name": "Świerk pospolity 125–150 cm",
+   "species": "Świerk pospolity",
+   "height": "125–150 cm",
+   "tier": "Standard",
+   "price": 99,
+   "img": "",
+   "desc": "Klasyczny zapach lasu, naturalny kształt. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Świerk pospolity150–175 cm",
+   "name": "Świerk pospolity 150–175 cm",
+   "species": "Świerk pospolity",
+   "height": "150–175 cm",
+   "tier": "Standard",
+   "price": 119,
+   "img": "",
+   "desc": "Klasyczny zapach lasu, naturalny kształt. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Świerk pospolity175–200 cm",
+   "name": "Świerk pospolity 175–200 cm",
+   "species": "Świerk pospolity",
+   "height": "175–200 cm",
+   "tier": "Standard",
+   "price": 139,
+   "img": "",
+   "desc": "Klasyczny zapach lasu, naturalny kształt. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Świerk pospolity200–225 cm",
+   "name": "Świerk pospolity 200–225 cm",
+   "species": "Świerk pospolity",
+   "height": "200–225 cm",
+   "tier": "Standard",
+   "price": 169,
+   "img": "",
+   "desc": "Klasyczny zapach lasu, naturalny kształt. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Świerk pospolity225–250 cm",
+   "name": "Świerk pospolity 225–250 cm",
+   "species": "Świerk pospolity",
+   "height": "225–250 cm",
+   "tier": "Standard",
+   "price": 199,
+   "img": "",
+   "desc": "Klasyczny zapach lasu, naturalny kształt. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Świerk pospolity250–275 cm",
+   "name": "Świerk pospolity 250–275 cm",
+   "species": "Świerk pospolity",
+   "height": "250–275 cm",
+   "tier": "Standard",
+   "price": 239,
+   "img": "",
+   "desc": "Klasyczny zapach lasu, naturalny kształt. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Świerk pospolity275–300 cm",
+   "name": "Świerk pospolity 275–300 cm",
+   "species": "Świerk pospolity",
+   "height": "275–300 cm",
+   "tier": "Standard",
+   "price": 289,
+   "img": "",
+   "desc": "Klasyczny zapach lasu, naturalny kształt. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Świerk pospolity300–325 cm",
+   "name": "Świerk pospolity 300–325 cm",
+   "species": "Świerk pospolity",
+   "height": "300–325 cm",
+   "tier": "Standard",
+   "price": 349,
+   "img": "",
+   "desc": "Klasyczny zapach lasu, naturalny kształt. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Świerk pospolity325–350 cm",
+   "name": "Świerk pospolity 325–350 cm",
+   "species": "Świerk pospolity",
+   "height": "325–350 cm",
+   "tier": "Standard",
+   "price": 419,
+   "img": "",
+   "desc": "Klasyczny zapach lasu, naturalny kształt. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła Fraser150–175 cm",
+   "name": "Jodła Fraser 150–175 cm",
+   "species": "Jodła Fraser",
+   "height": "150–175 cm",
+   "tier": "Standard",
+   "price": 249,
+   "img": "",
+   "desc": "Jodła Fraser: sztywne gałęzie i intensywny zapach. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła Fraser175–200 cm",
+   "name": "Jodła Fraser 175–200 cm",
+   "species": "Jodła Fraser",
+   "height": "175–200 cm",
+   "tier": "Standard",
+   "price": 299,
+   "img": "",
+   "desc": "Jodła Fraser: sztywne gałęzie i intensywny zapach. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła Fraser200–225 cm",
+   "name": "Jodła Fraser 200–225 cm",
+   "species": "Jodła Fraser",
+   "height": "200–225 cm",
+   "tier": "Standard",
+   "price": 359,
+   "img": "",
+   "desc": "Jodła Fraser: sztywne gałęzie i intensywny zapach. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Jodła Fraser225–250 cm",
+   "name": "Jodła Fraser 225–250 cm",
+   "species": "Jodła Fraser",
+   "height": "225–250 cm",
+   "tier": "Standard",
+   "price": 439,
+   "img": "",
+   "desc": "Jodła Fraser: sztywne gałęzie i intensywny zapach. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Choinka w donicy100–125 cm",
+   "name": "Choinka w donicy 100–125 cm",
+   "species": "W donicy",
+   "height": "100–125 cm",
+   "tier": "Standard",
+   "price": 129,
+   "img": "",
+   "desc": "Żywa choinka w donicy — po świętach można ją posadzić. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Choinka w donicy125–150 cm",
+   "name": "Choinka w donicy 125–150 cm",
+   "species": "W donicy",
+   "height": "125–150 cm",
+   "tier": "Standard",
+   "price": 159,
+   "img": "",
+   "desc": "Żywa choinka w donicy — po świętach można ją posadzić. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Choinka w donicy150–175 cm",
+   "name": "Choinka w donicy 150–175 cm",
+   "species": "W donicy",
+   "height": "150–175 cm",
+   "tier": "Standard",
+   "price": 199,
+   "img": "",
+   "desc": "Żywa choinka w donicy — po świętach można ją posadzić. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  },
+  {
+   "id": "Choinka w donicy175–200 cm",
+   "name": "Choinka w donicy 175–200 cm",
+   "species": "W donicy",
+   "height": "175–200 cm",
+   "tier": "Standard",
+   "price": 249,
+   "img": "",
+   "desc": "Żywa choinka w donicy — po świętach można ją posadzić. Dane demonstracyjne.",
+   "long": "",
+   "active": true
+  }
+ ],
+ "theme": {
+  "head": "Cormorant Garamond",
+  "body": "Inter",
+  "gold": "#c9a24b",
+  "red": "#7a1f2b",
+  "size": 16
+ },
+ "contact": {
+  "phone": "+48 577 562 284",
+  "phone2": "+48 509 717 218",
+  "email": "choinkiwarszawska@gmail.com",
+  "address": "Warszawska 57A, Konstancin-Jeziorna",
+  "hours": "Pon-Pt 10-20 Sob-Niedz 9-21",
+  "pname": "do Janka",
+  "pname2": "do Maksa"
+ },
+ "b2b": {
+  "title": "Choinki dla firm",
+  "text": "Zamawiasz choinki do biura, hotelu, restauracji lub sklepu? Przygotujemy wycenę dopasowaną do Twojej firmy. (Tekst do edycji w panelu.)",
+  "points": "Wycena indywidualna\nDostawa do firmy\nWiększe ilości i różne wysokości\nUzgodniony termin dostawy",
+  "contact": "Antoni: +48 669 695 426"
+ },
+ "company": {
+  "name": "",
+  "addr": "",
+  "nip": ""
+ },
+ "decor": [
+  {
+   "id": "d1",
+   "name": "Renifer z jodły nobilis",
+   "price": 149,
+   "desc": "Dekoracja w kształcie renifera z żywej jodły nobilis.",
+   "long": "Tutaj pełny opis renifera: wymiary, sposób wykonania itp. (Tekst demonstracyjny — uzupełnij w panelu.)",
+   "img": "",
+   "active": true
+  }
+ ],
+ "stands": [
+  {
+   "id": "s1",
+   "name": "Stojak Basic",
+   "price": 119,
+   "dia": "do 10 cm",
+   "maxH": "do 225 cm",
+   "desc": "Prosty i stabilny stojak do mniejszych i średnich choinek.",
+   "long": "Tutaj pełny opis stojaka: materiał, sposób mocowania, pojemność zbiornika na wodę itp. (Tekst demonstracyjny — uzupełnij w panelu.)",
+   "img": "",
+   "active": true
+  },
+  {
+   "id": "s2",
+   "name": "Stojak Premium",
+   "price": 149,
+   "dia": "do 13 cm",
+   "maxH": "do 275 cm",
+   "desc": "Solidny stojak do większych choinek.",
+   "long": "Tutaj pełny opis stojaka. (Tekst demonstracyjny — uzupełnij w panelu.)",
+   "img": "",
+   "active": true
+  },
+  {
+   "id": "s3",
+   "name": "Stojak XL",
+   "price": 229,
+   "dia": "15 cm",
+   "maxH": "do 350 cm",
+   "desc": "Stabilna konstrukcja do większych i cięższych drzewek.",
+   "long": "Tutaj pełny opis stojaka. (Tekst demonstracyjny — uzupełnij w panelu.)",
+   "img": "",
+   "active": true
+  }
+ ],
+ "zones": [
+  {
+   "max": 5,
+   "price": 39
+  },
+  {
+   "max": 10,
+   "price": 49
+  },
+  {
+   "max": 15,
+   "price": 59
+  },
+  {
+   "max": 20,
+   "price": 69
+  },
+  {
+   "max": 25,
+   "price": 79
+  },
+  {
+   "max": null,
+   "price": null
+  }
+ ],
+ "about": {
+  "title": "Poznaj S&M-ChoinkiWarszawa",
+  "text": "Jesteśmy lokalną firmą z Warszawy… (edytuj w panelu)",
+  "img": ""
+ }
+}
