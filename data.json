@@ -434,8 +434,8 @@
   "email": "choinkiwarszawska@gmail.com",
   "address": "Warszawska 57A, Konstancin-Jeziorna",
   "hours": "Pon-Pt 10-20 Sob-Niedz 9-21",
-  "pname": "do Janka",
-  "pname2": "do Maksa"
+  "pname": "Janek",
+  "pname2": "Maks"
  },
  "b2b": {
   "title": "Choinki dla firm",
@@ -464,7 +464,7 @@
    "id": "s1",
    "name": "Stojak Basic",
    "price": 119,
-   "dia": "do 10 cm",
+   "dia": "10 cm",
    "maxH": "do 225 cm",
    "desc": "Prosty i stabilny stojak do mniejszych i średnich choinek.",
    "long": "Tutaj pełny opis stojaka: materiał, sposób mocowania, pojemność zbiornika na wodę itp. (Tekst demonstracyjny — uzupełnij w panelu.)",
@@ -475,7 +475,7 @@
    "id": "s2",
    "name": "Stojak Premium",
    "price": 149,
-   "dia": "do 13 cm",
+   "dia": "13 cm",
    "maxH": "do 275 cm",
    "desc": "Solidny stojak do większych choinek.",
    "long": "Tutaj pełny opis stojaka. (Tekst demonstracyjny — uzupełnij w panelu.)",
