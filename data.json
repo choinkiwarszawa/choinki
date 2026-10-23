@@ -460,9 +460,14 @@
  },
  "b2b": {
   "title": "Choinki dla firm",
-  "text": "Zamawiasz choinki do biura, hotelu, restauracji lub sklepu? Przygotujemy wycenę dopasowaną do Twojej firmy. (Tekst do edycji w panelu.)",
+  "text": "Zamawiasz choinki do biura, hotelu, restauracji lub sklepu? Przygotujemy wycenę dopasowaną do Twojej firmy.",
   "points": "Wycena indywidualna\nDostawa do firmy\nWiększe ilości i różne wysokości\nUzgodniony termin dostawy",
   "contact": "Antoni: +48 669 695 426"
+ },
+ "social": {
+  "facebook": "",
+  "instagram": "https://www.instagram.com/choinkiwarszawska",
+  "tiktok": ""
  },
  "company": {
   "name": "",
@@ -488,7 +493,7 @@
    "name": "Renifer z jodły nobilis",
    "price": 149,
    "desc": "Dekoracja w kształcie renifera z żywej jodły nobilis.",
-   "long": "Tutaj pełny opis renifera: wymiary, sposób wykonania itp. (Tekst demonstracyjny — uzupełnij w panelu.)",
+   "long": " ",
    "img": "",
    "active": true
   }
