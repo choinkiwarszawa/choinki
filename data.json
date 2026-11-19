@@ -451,38 +451,6 @@
    "desc": "Żywa choinka w donicy — po świętach można ją posadzić.",
    "active": true,
    "tier": "Premium"
-  },
-  {
-   "id": "t1795095554724",
-   "name": "Choinka w donicy 150-175 cm",
-   "species": "Jodła",
-   "height": "150–175 cm",
-   "price": 249,
-   "img": "",
-   "desc": "Żywa choinka w donicy — po świętach można ją posadzić.",
-   "active": true,
-   "tier": "Premium"
-  },
-  {
-   "id": "t1795095606171",
-   "name": "Choinka w donicy 125-150 cm",
-   "species": "Jodła",
-   "height": "125-150 cm",
-   "price": 199,
-   "img": "",
-   "desc": "Żywa choinka w donicy — po świętach można ją posadzić.",
-   "active": true,
-   "tier": "Premium"
-  },
-  {
-   "id": "t1795095649419",
-   "name": "Choinka w donicy 100-125 cm",
-   "species": "Jodła",
-   "height": "100-125 cm",
-   "price": 179,
-   "img": "",
-   "desc": "Żywa choinka w donicy — po świętach można ją posadzić.",
-   "active": true
   }
  ],
  "theme": {
