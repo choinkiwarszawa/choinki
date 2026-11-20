@@ -508,6 +508,14 @@
   "points": "Wycena indywidualna\nDostawa do firmy\nWiększe ilości i różne wysokości\nUzgodniony termin dostawy",
   "contact": "Antoni: +48 669 695 426"
  },
+ "service": {
+  "id": "svc",
+  "name": "Utylizacja",
+  "desc": "Dodatkowa usługa utylizacji choinki. Szczegóły ustalimy z Tobą telefonicznie.",
+  "price": 150,
+  "active": true,
+  "pos": "top"
+ },
  "gallery": [
   {
    "id": "g1794650406678",
