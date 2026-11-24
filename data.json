@@ -463,7 +463,7 @@
  "service": {
   "id": "svc",
   "name": "Utylizacja",
-  "desc": "Dodatkowa usługa utylizacji choinki. Szczegóły ustalimy z Tobą telefonicznie.",
+  "desc": "Odbiór choinki po świętach i utylizacja w ekologiczny sposób. Szczegóły ustalimy z Tobą telefonicznie.",
   "price": 150,
   "active": true,
   "pos": "after"
